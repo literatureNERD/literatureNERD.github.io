@@ -1,0 +1,40 @@
+title: "The literatureNERD blogs"
+author: "Liter@ture_nerd"
+description: "literature nerd family welcomes you"
+# Email / Social media user names used by the minima theme:
+# All of these are optional and can be removed or commented out
+email: "literature_nerd@mail.com"
+twitter_username: "nerdy"
+github_username: "literatureNERD"
+#facebook_username: literatureNERD
+#flickr_username: literatureNERD
+#instagram_username: literatureNERD
+#pinterest_username: literatureNERD
+#youtube_username: literatureNERD
+#googleplus_username: literatureNERD
+
+#########################################################################################
+######### Nothing below needs to be changed (unless you know what you're doing) #########
+#########################################################################################
+theme: "minima"
+
+
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
