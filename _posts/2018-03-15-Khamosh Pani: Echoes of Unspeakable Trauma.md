@@ -1,4 +1,5 @@
-Khamosh Pani: Echoes of Unspeakable Trauma
+Khamosh Pani: 
+Echoes of Unspeakable Trauma
 Sabiha Sumar's haunting film, Khamosh Pani (Silent Waters), is a visceral exploration of the lingering trauma inflicted by the 1947 Partition of India. Through the tragic life of Ayesha/Veero, Sumar crafts a powerful meditation on the brittleness of memory and the permanent wounds caused by unspeakable violence.
 One of the most striking aspects of the film is Sumar's unflinching depiction of Ayesha's rape, a harrowing reminder of the brutal realities endured by countless women during the chaos of Partition. With raw honesty, the camera bears witness to the violation, refusing to shy away from the truth that women's bodies became battlegrounds in the midst of conflict.
 Yet, Sumar's portrayal of this horrific event is not merely about shock value; it is a searing indictment of the dehumanization and violation that occurred on a massive scale. Ayesha's rape symbolizes the collective trauma endured by women who were subjected to unimaginable cruelty in the name of religious and ethnic divisions.
