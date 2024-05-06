@@ -10,4 +10,5 @@ title: Blog Archive
       <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  <button type="button">see more</button>
 {% endfor %}
