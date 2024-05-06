@@ -9,6 +9,7 @@ title: Blog Archive
     {% for post in tag[1] %}
       <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
     {% endfor %}
+    <button type="button">see more</button>
   </ul>
-  <button type="button">see more</button>
+  
 {% endfor %}
